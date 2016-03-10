@@ -1,5 +1,7 @@
 # drone-wall
 
+Forked from https://github.com/drone/drone-wall.
+
 The Drone Wall is a wall display component for [Drone CI server](https://github.com/drone/drone) v0.4.0.
 
 <img src="http://tathanen.github.io/drone-wall-light.png" width="440" alt="Light theme">
